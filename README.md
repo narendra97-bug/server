@@ -2,7 +2,7 @@
 This is a Social media server which provides all the functionalities for a real time social media application.
 
 # run:
-npm insatall 
+npm install 
 
 # run:
 npm start
